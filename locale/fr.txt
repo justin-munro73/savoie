@@ -1,0 +1,100 @@
+#: locale=fr
+
+## Action
+
+### PDF
+PopupPDFBehaviour_7413F1E3_6167_9B1E_41AA_F720671FA09B.url = files/menu-3valle_fr.pdf
+
+### URL
+PopupWebFrameBehaviour_713236C4_6128_B91A_41D5_15F4F563ABB2.url = //www.youtube.com/embed/bLxSFUv6qQk
+PopupWebFrameBehaviour_9D30AFEC_920A_F982_41D7_D5205AB2A77B.url = //www.youtube.com/embed/k8oCo3WfRAU
+PopupWebFrameBehaviour_61879107_6E30_CFB6_419F_0241D85DE8A8.url = //www.youtube.com/embed/ymBIYpjkURQ
+PopupWebFrameBehaviour_A90FDD78_A6CF_2DA7_41D9_7078F625EAA0.url = //www.youtube.com/embed/n3VaAs8sE5g
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_9A989429_8B7D_8E5F_41AF_D9DF2B66559E.text = Bar
+HotspotPanoramaOverlayTextImage_9C125F1B_8C48_2847_41D0_E79EA3AF5B1A.text = Lac du Bourget
+HotspotPanoramaOverlayTextImage_85DE37D5_8B75_89F7_41B6_A0A765F7024B.text = Menu
+HotspotPanoramaOverlayTextImage_89669318_9CCC_8D05_41BD_C711C0856916.text = Mont-Blanc
+HotspotPanoramaOverlayTextImage_85BCFEE5_8B6B_9BD7_41E0_B4581BF3BDE2.text = Terrasse de la Brasserie
+HotspotPanoramaOverlayTextImage_81A52F35_8C48_6840_41A1_97EBE69AAA68.text = Ville d'Aix les Bains
+
+### Tooltip
+HotspotPanoramaOverlayArea_6E96FCEA_6138_8AEE_41CC_307FBF378A5B.toolTip = Chambotte Viewpoint
+HotspotPanoramaOverlayArea_83C686D6_9246_C63A_41AE_3907DBF0E14B.toolTip = Photos à Chanaz
+
+## Media
+
+### Image
+imlevel_8A99B09E_9CC3_8B3D_41D4_144D0C8B33C8.url = media/panorama_6A778F2A_6095_01EB_41C6_EA35B01AA32D_HS_63v13e7p_fr.webp
+imlevel_91A5A3F9_9C4D_8D07_4159_203E27B5BD60.url = media/panorama_6A779C50_6095_07B8_41BA_3785E0EE46AB_HS_7fmkr83l_fr.webp
+imlevel_91A7D42B_9C4D_8B04_41E0_48817E0682DB.url = media/panorama_6A779C50_6095_07B8_41BA_3785E0EE46AB_HS_rzhsoyi1_fr.webp
+imlevel_91A1146B_9C4D_8B1B_41B6_5785215EF92F.url = media/panorama_6A77AA60_6095_0398_41CB_45426390B929_HS_hct46fr3_fr.webp
+imlevel_919A53A5_9C4D_8D0F_41DC_B88108F1ACC3.url = media/panorama_6A77D569_6095_0068_41CE_267A6C8B4558_HS_3n4idt6e_fr.webp
+imlevel_931DE383_9C4D_8D04_41B6_295EF55DD3B2.url = media/panorama_6A77D569_6095_0068_41CE_267A6C8B4558_HS_j8ecpyor_fr.webp
+
+### Title
+photo_75A1366A_6178_B9E9_41D7_8CDD8C827479.label = 3vallé
+album_7734A4F3_6128_BAFE_41C9_BEE7DD44CEC0.label = Album Photo Lac
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA.label = Album Photo P1010052
+album_6E6D4C17_6129_8926_41D3_9487F3A886F5.label = Album Photo parking
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F.label = Album Photo restau
+panorama_6A481B57_6095_01B8_41D1_2421821C9507.label = Chambotte_1
+panorama_6A4824D8_6095_00B7_41CE_7A94062AD310.label = Lac_1
+panorama_6A480BF1_6095_0079_41D5_D9FF68D71CCD.label = Lac_2
+panorama_6A4842FA_6095_0068_41C9_CC831F0E1C88.label = Lac_3
+panorama_6A4879BE_6095_00E8_41D6_628B7DEBA1AB.label = Lac_4
+panorama_6A484109_6095_01A8_4184_8A3A90214766.label = Lac_5
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_0.label = P1010052
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_1.label = P1010054
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_2.label = P1010056
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_3.label = P1010057
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_4.label = P1010061
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_5.label = P1010064
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_6.label = P1010066
+album_79EDE3E0_6138_9F1A_4194_9FE90B4FAEDA_8.label = P1010077
+album_7734A4F3_6128_BAFE_41C9_BEE7DD44CEC0_0.label = P1010084
+album_7734A4F3_6128_BAFE_41C9_BEE7DD44CEC0_1.label = P1010086
+album_7734A4F3_6128_BAFE_41C9_BEE7DD44CEC0_2.label = P1010087
+album_6E6D4C17_6129_8926_41D3_9487F3A886F5_3.label = P1010089
+album_7734A4F3_6128_BAFE_41C9_BEE7DD44CEC0_3.label = P1010096
+album_7734A4F3_6128_BAFE_41C9_BEE7DD44CEC0_4.label = P1010098
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F_0.label = P1010112
+album_6E6D4C17_6129_8926_41D3_9487F3A886F5_7.label = P1010121
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F_1.label = P1010122
+album_6E6D4C17_6129_8926_41D3_9487F3A886F5_8.label = P1010123
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F_2.label = P1010124
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F_3.label = P1010125
+album_6E6D4C17_6129_8926_41D3_9487F3A886F5_9.label = P1010127
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F_4.label = P1010130
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F_5.label = P1010131
+album_771930E8_6128_BAEA_41B5_CA6340BDE33F_6.label = P1010132
+panorama_6A7793AD_6095_00E9_41CA_3451D7B5DCB3.label = Revard1
+panorama_6A77AA60_6095_0398_41CB_45426390B929.label = Revard7
+panorama_6A484864_6095_0F98_41D8_031EBC3899E9.label = Revard_2jpg
+panorama_6A778F2A_6095_01EB_41C6_EA35B01AA32D.label = Revard_4
+panorama_6A77D569_6095_0068_41CE_267A6C8B4558.label = Revard_5
+panorama_6A779C50_6095_07B8_41BA_3785E0EE46AB.label = Revard_8
+
+## Popup
+
+### Body
+htmlText_75467F87_6169_8726_41D4_C45039276995.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Le restaurant Les Quatre Vallées est situé au Mont Revard, au-dessus d’Aix-les-Bains en Savoie, à près de 1562 mètres d’altitude. Sur un promontoire unique s’offre une vue panoramique à 360° sur le lac du Bourget, le massif des Bauges, le Mont-Blanc et la combe de Savoie.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Le restaurant vous propose une cuisine traditionnelle savoyarde faite maison.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Son immense terrasse et sa grande salle intérieure vous accueillent toute l’année pour les déjeuners ou des après-midi détente. Un grand parking est à votre disposition, ainsi qu’une passerelle permettant de profiter de la vue vertigineuse sous vos pieds.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_76AD52EC_6139_9EEA_41D0_260FFC04C3F2.title = CHANAZ
+window_7546BF87_6169_8726_41CA_20C530C61BD3.title = RESTAURANT PANORAMIQUE
+
+## Skin
+
+### Multiline Text
+HTMLText_850C5D51_9236_9E9F_41E0_045EACBAFC7C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;"><B>Virtual tour</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B><I>Created by Munro</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffff00;font-size:12px;font-family:Tahoma, Geneva, sans-serif;">Contact at justin.munro5@gmail.com</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sans titre 4
